@@ -1,0 +1,45 @@
+body{
+    background-color: #E5E5E5;
+}
+header{
+    max-width: 1440px;
+    height: 94px;    
+    margin-bottom: 40px;
+}
+.navbar{
+    background-color: #562EFF;
+}
+.navbar img{
+    width: 40px;
+    height: 51px;
+}
+main{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    max-width: 870px;
+    height: 679px;
+    padding: 15px;
+}
+h3{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 36px;
+    color: #562EFF;
+}
+.player img{
+    width: 65px;
+    padding: 15px 10px;
+}
+.player p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+hr{
+    border: 1px solid #D1D1D1
+}
