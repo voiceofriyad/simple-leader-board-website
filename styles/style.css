@@ -3,7 +3,6 @@ body{
 }
 header{
     max-width: 1440px;
-    height: 94px;    
     margin-bottom: 40px;
 }
 .navbar{
@@ -17,8 +16,8 @@ main{
     background-color: #FFFFFF;
     border-radius: 10px;
     max-width: 870px;
-    height: 679px;
     padding: 15px;
+    margin-bottom: 40px;
 }
 h3{
     font-family: Poppins;
@@ -27,6 +26,8 @@ h3{
     font-size: 24px;
     line-height: 36px;
     color: #562EFF;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 .player img{
     width: 65px;
@@ -42,4 +43,68 @@ h3{
 }
 hr{
     border: 1px solid #D1D1D1
+}
+.player-bottom img{
+    width: 177px;
+}
+h6{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 34px;
+    color: #000000;
+}
+.blog-content p{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color:#9F9F9F;
+}
+.bloger-name{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color:#562EFF
+}
+footer{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    max-width: 870px;
+    padding: 15px;
+    margin-bottom: 40px;
+}
+h5{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20.0336px;
+    line-height: 23px;
+    color: #1E1E1E;
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 5px gray;
+}
+.rating-star span{
+    color: #AEAEAE;
+}
+.rating-star .checked{
+    color: orange;
+}
+.time-count img{
+    width: 20px;
+}
+.time-count{
+    background: #FFE4E8;
+    padding: 2px 7px; 
+    border-radius: 15px;
+}
+.card-footer{
+    border-top: none;
 }
